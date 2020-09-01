@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Puuskomedi Indonesia Kreatif
 - 🌱 I’m currently learning Kotlin Programming languange
+- 💬 Ask me about anything other than code 😄
+- ⚡ Fun fact: 
+                - I can breathe 🤣
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Anythng
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: - I am crazy lol
-
