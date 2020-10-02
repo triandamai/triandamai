@@ -5,12 +5,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Puskomedia Indonesia Kreatif(https://www.puskomedia.id/)
-- 🌱 I’m currently learning Kotlin Programming languange
-- 💬 Ask me about anything other than code 😄
-- ⚡ Fun fact: 
-                - I can breathe 🤣
-<!-- - 👯 I’m looking to collaborate on  -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
+- 🔭  Android Developer [Puskomedia Indonesia Kreatif](https://www.puskomedia.id/)
+- 🌱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
+- ⚡  Stop Stopping
+- 📫  triannurizkillah@gmail.com
+
