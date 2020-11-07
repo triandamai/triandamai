@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭  Android Developer [Puskomedia Indonesia Kreatif](https://www.puskomedia.id/)
+<!---- 🔭  Android Developer [Puskomedia Indonesia Kreatif](https://www.puskomedia.id/) --->
 - 🌱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
 - ⚡  Stop Stopping
 - 📫  triannurizkillah@gmail.com
