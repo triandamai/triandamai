@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 
 <!---- 🔭  Android Developer [Puskomedia Indonesia Kreatif](https://www.puskomedia.id/) --->
-- 🌱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
+- 🧱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
+- 📱   Mobile Developer [Cexup](https://cexup.com)
 - ⚡  Stop Stopping
 - 📫  triannurizkillah@gmail.com
 
