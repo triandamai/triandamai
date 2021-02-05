@@ -14,7 +14,7 @@ Hello i'am Trian Damai
 <!--- <p>Hi, I'm Sanskar Tiwari, I love building amazing software which make an impact, I teach software development on <a href="https://www.youtube.com/SanskarTiwari">Youtube</a>, share open source projects @ <a href="https://github.com/theindianappguy">Github</a>, write blog at <a href="https://flutternerd.com/">flutternerd.com</a>.</p>
 --->
 <p>
-  <a href="https://www.twitter.com/TrianDN_">
+  <a href="https://www.twitter.com/TrianDN__">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a> 
   <a href="https://www.linkedin.com/in/triandamai/">
