@@ -6,7 +6,7 @@
 Hello i'am Trian Damai
 
 
-- 🔭  Currently learning Flutter,java,Node.js
+- 🔭  Currently learning Flutter,java,Node.js,Vue.js
 - 🧱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
 - 📱   Mobile Developer [Cexup](https://cexup.com)
 - 📫  How to reach me: [triannurizkillah@gmail.com](triannurizkillah@gmail.com)
