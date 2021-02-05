@@ -17,7 +17,7 @@ Hello i'am Trian Damai
   <a href="https://www.twitter.com/TrianDN__">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a> 
-  <a href="https://www.linkedin.com/in/triandamai/">
+  <a href="https://www.linkedin.com/in/trian-damai-315a74137/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a> 
   <a href="https://www.instagram.com/trian_damai/">
