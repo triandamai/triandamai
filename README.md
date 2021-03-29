@@ -28,6 +28,6 @@ Hello i'am Trian Damai
 <h1>GitHub Stats</h1>
 <p><img src="https://github-readme-stats.vercel.app/api?username=triandamai&count_private=true&show_icons=true&theme=radical&show_owner=true" alt="GitHub Stats"></p>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triandamai&layout=compact&count_private=true&hide=html,css&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triandamai&layout=compact&count_private=true&hide=html,css,php&langs_count=8">
 </p>
 
