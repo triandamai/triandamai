@@ -4,7 +4,6 @@
 **triandamai/triandamai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Hello i'am Trian Damai
-
 <br> [trian.app](https://trian.app)
 
 - 🔭  Currently learning Flutter,java,Node.js,Vue.js
