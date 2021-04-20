@@ -4,12 +4,12 @@
 **triandamai/triandamai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Hello i'am Trian Damai
-<br> [trian.app](https://trian.app)
 
 - 🔭  Currently learning Flutter,java,Node.js,Vue.js
 - 🧱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
 - 📱   Mobile Developer [Cexup](https://cexup.com)
 - 📫  How to reach me: [triannurizkillah@gmail.com](triannurizkillah@gmail.com)
+- 🔍  More About me: [trian.app](https://trian.app)
 
 <!--- <p>Hi, I'm Sanskar Tiwari, I love building amazing software which make an impact, I teach software development on <a href="https://www.youtube.com/SanskarTiwari">Youtube</a>, share open source projects @ <a href="https://github.com/theindianappguy">Github</a>, write blog at <a href="https://flutternerd.com/">flutternerd.com</a>.</p>
 --->
