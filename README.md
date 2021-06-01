@@ -5,9 +5,9 @@
 -->
 Hello i'am Trian Damai
 
-- 🔭  Currently learning `Flutter`,`java`,`Node.js`,`Vue.js`
+- 🔭  Currently learning `Flutter`,`Java`,`Kotlin`,`Node.js`,`Vue.js`
 - 🧱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
-- 📱   Mobile Developer [Cexup](https://cexup.com)
+- 📱  Mobile Developer [Cexup](https://cexup.com)
 - 🔍  More About me:  [trian.app](https://trian.app)
 
 
