@@ -2,8 +2,8 @@
 
 <!--
 **triandamai/triandamai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Hello i'am Trian Damai
+--> 
+i'am Trian Damai
 
 - 🔭  Currently learning `Flutter`,`Java`,`Kotlin`,`Node.js`,`Vue.js`
 - 🧱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
