@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'am Trian Damai
 
-<!--
-**triandamai/triandamai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---> 
-i'am Trian Damai
+
 
 - 🔭  Currently learning `Flutter`,`Java`,`Kotlin`,`Node.js`,`Vue.js`
 - 🧱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
 - 📱  Mobile Developer [Cexup](https://cexup.com)
 - 🔍  More About me:  [trian.app](https://trian.app)
 
-
-<!--- <p>Hi, I'm Sanskar Tiwari, I love building amazing software which make an impact, I teach software development on <a href="https://www.youtube.com/SanskarTiwari">Youtube</a>, share open source projects @ <a href="https://github.com/theindianappguy">Github</a>, write blog at <a href="https://flutternerd.com/">flutternerd.com</a>.</p>
---->
 <p>
   <a href="https://www.twitter.com/TrianDN__">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
@@ -31,4 +25,8 @@ i'am Trian Damai
 <span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triandamai&layout=compact&count_private=true&hide=html,css,php,tsql,roff&langs_count=8" alt="Counter" width=400 height=180>
 </span>
+
+<!--
+**triandamai/triandamai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--> 
 
