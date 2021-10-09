@@ -2,7 +2,7 @@
 
 
 
-- 🔭  Currently learning `Swift`,`Java`,`Kotlin`,`Flutter`,`Node.js`,`Vue.js`
+- 🔭  Currently learning `Swift`,`Java`,`Kotlin`,`Node.js`,`Vue.js`,`Jetpack Compose`
 - 🧱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
 - 📱  Mobile Developer [Cexup](https://cexup.com)
 - 🔍  More About me:  [trian.app](https://trian.app)
