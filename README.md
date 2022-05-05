@@ -1,6 +1,7 @@
 ### Hi there 👋 I'am Trian Damai
 
-- 📱  Mobile Developer [Cexup](https://cexup.com)
+<!-- - 📱  Mobile Developer [Cexup](https://cexup.com) -->
+📱  Mobile Developer [Cexup](https://github.com/cexup-team)
 - 🧱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
 - 🔭  Currently learning `Swift`,`Java`,`Kotlin`,`Node.js`,`Vue.js`,`Jetpack Compose`
 - 🔍  More About me:  [trian.app](https://trian.app)
