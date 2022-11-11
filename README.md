@@ -3,7 +3,7 @@
 <!-- - 📱  Mobile Developer [Cexup](https://cexup.com) -->
 - 📱  Senior Sofware Developer [Cexup](https://github.com/cexup-team)
 - 🧱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
-- 🔭  Currently learning `Swift`,`Java`,`Kotlin`,`Node.js`,`Vue.js`,`Jetpack Compose`.`rust`
+- 🔭  Currently learning `Swift`,`Java`,`Kotlin`,`Node.js`,`Vue.js`,`Jetpack Compose`,`Rust`
 - 🔍  More About me:  [trian.app](https://trian.app)
 
 <p>
@@ -22,7 +22,7 @@
 <span>
   <img src="https://github-readme-stats.vercel.app/api?username=triandamai&count_private=true&show_icons=true&theme=radical&show_owner=true" alt="GitHub Stats" width=400></span>
 <span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triandamai&layout=compact&count_private=true&hide=html,css,php,tsql,roff,scss,hack,shell&langs_count=8" alt="Counter" width=400 height=180>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triandamai&layout=compact&count_private=true&hide=html,css,php,tsql,roff,scss,hack,shell" alt="Counter" width=400 height=180>
 </span>
 
 <!--
