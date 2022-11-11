@@ -3,7 +3,7 @@
 <!-- - 📱  Mobile Developer [Cexup](https://cexup.com) -->
 - 📱  Senior Sofware Developer [Cexup](https://github.com/cexup-team)
 - 🧱  Front End Developer [Bakaran Project](https://bakaranproject.com/)
-- 🔭  Currently learning `Swift`,`Java`,`Kotlin`,`Node.js`,`Vue.js`,`Jetpack Compose`
+- 🔭  Currently learning `Swift`,`Java`,`Kotlin`,`Node.js`,`Vue.js`,`Jetpack Compose`.`rust`
 - 🔍  More About me:  [trian.app](https://trian.app)
 
 <p>
