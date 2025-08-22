@@ -6,7 +6,7 @@
 - 🔭  Currently learning `Swift`,`Java`,`Kotlin`,`Node.js`,`Vue.js`,`Jetpack Compose`,`Rust`
 - 🔍  More About me:  [trian.app](https://trian.app)
 
-<p>
+<!-- <p>
   <a href="https://www.twitter.com/TrianDN__">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a> 
@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/trian_damai/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a> 
-</p>
+</p> -->
 
 <h1>GitHub Stats</h1>
 <span>
