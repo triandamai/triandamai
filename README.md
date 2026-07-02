@@ -4,7 +4,7 @@
 - 📱  Sofware Developer - Android
 - 🧱  Front End Developer
 - 🔭  Currently learning `Swift`,`Java`,`Kotlin`,`Node.js`,`Vue.js`,`Jetpack Compose`,`Rust`
-- 🔍  More About me:  [trian.app](https://trian.app)
+- 🔍  More About me:  [trian.space](https://trian.space)
 
 <!-- <p>
   <a href="https://www.twitter.com/TrianDN__">
