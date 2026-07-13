@@ -18,12 +18,12 @@
   </a> 
 </p> -->
 
-<h1>GitHub Stats</h1>
-<span>
+<!-- <h1>GitHub Stats</h1> -->
+<!-- <span>
   <img src="https://github-readme-stats.vercel.app/api?username=triandamai&count_private=true&show_icons=true&theme=radical&show_owner=true" alt="GitHub Stats" width=400></span>
 <span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triandamai&layout=compact&count_private=true&hide=html,php,css,tsql,roff,scss,ruby,objective-c,hack,shell&langs_count=20" alt="Counter" width=400 height=180>
-</span>
+</span> -->
 
 <!--
 **triandamai/triandamai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
